@@ -44,13 +44,6 @@ FIRMS Fire Data
 Rainfall datasets
 Screenshots
 
-(Insert images)
-
-Installation
-git clone ...
-cd frontend-react
-npm install
-npm run dev
 
 Backend setup:
 
